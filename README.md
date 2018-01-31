@@ -15,3 +15,12 @@ This project is a prototype and it describes a pattern. The code can be technica
 - WebVR
 - Built in AFrame
 - JavaScript interaction
+
+### How to run
+
+In your terminal (OS X):
+Go to the directory where the index.html was downloaded.
+$ python -m SimpleHTTPServer 8000
+
+In your browser:
+Navigate to localhost:8000
